@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ngmatapp-f89e7": {
+      "hosting": {
+        "MatApp": [
+          "ngmatapp-f89e7"
+        ]
+      }
+    }
+  }
+}
